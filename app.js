@@ -20,3 +20,5 @@ calculate.addEventListener('click', () => {
         result.textContent = 'Ввели некорректные данные'
     }
 })
+
+//test
